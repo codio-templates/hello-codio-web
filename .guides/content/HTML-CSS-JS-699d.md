@@ -46,7 +46,7 @@ function setup() {
 
 ## Linking the Slider to the Animation
 
-Refreshing the Preview panel will draw the slider to the page, but moving it does not affect the animation. The slider is going to control the color of the lines in the animation. In the `Draw` function, create a blank line between setting the `background` color and setting the `stroke`. Set the value of the variable `val` to the value of the variable `slicer`.
+Refreshing the Preview panel will draw the slider to the page, but moving it does not affect the animation. The slider is going to control the color of the lines in the animation. In the `Draw` function, create a blank line between setting the `background` color and setting the `stroke`. Set the value of the variable `val` to the value of the variable `slider`: `val = slider.value()`.
 
 ```javascript
 function draw() {
