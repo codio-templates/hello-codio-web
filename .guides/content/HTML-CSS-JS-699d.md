@@ -43,3 +43,25 @@ function setup() {
     slider.style("margin", "auto")
 }
 ```
+
+## Linking the Slider to the Animation
+
+Refreshing the Preview panel will draw the slider to the page, but moving it does not affect the animation. The slider is going to control the color of the lines in the animation. In the `Draw` function, create a blank line between setting the `background` color and setting the `stroke`. Set the value of the variable `val` to the value of the variable `slicer`.
+
+```javascript
+function draw() {
+    background(255)
+    val = slider.value()
+    stroke(val, 255, 255)
+    translate(width / 2, height / 2)
+    for (let i = -18; i < 18; i++) {
+        angle += i* 0.3
+        let x = cos(angle) * 150
+        let y = -cos(angle) * 150
+        line(x, i * 10 + 10, y, i* 10 + 10)
+    }
+    angle += 1 
+}
+```
+
+Refresh the Preview panel. Moving the slider should now change the color of the animation.
