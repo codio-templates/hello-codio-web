@@ -8,6 +8,12 @@ In the file tree to the left, you should see all of the files needed for web dev
 
 ![File Uploads](.guides/img/web-files.png)
 
+### Students and the File Tree
+
+Because several files are needed for web development, students may need access to the file tree. Students can access the file tree any time they want by clicking `File` in the menu bar and the select `File Tree`.
+
+![File Tree and Students](.guides/img/file_tree_students.png)
+
 ### P5.js
 This demo is using the [P5.js](https://p5js.org) library. P5 differs in a few ways from traditional JS libraries. First, P5 does not use the traditional [namespace](https://github.com/processing/p5.js/wiki/Global-and-instance-mode) conventions. By default, everything is global. P5 also uses the sketch metaphor for projects created in P5, which is why the JS file is called `sketch.js`.
 
