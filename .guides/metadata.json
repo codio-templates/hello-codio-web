@@ -45,29 +45,9 @@
     {
      "path": "#tabs",
      "action": "close"
-    },
-    {
-     "path": "index.html",
-     "panel": 0,
-     "action": "open"
-    },
-    {
-     "path": "style.css",
-     "panel": 0,
-     "action": "open"
-    },
-    {
-     "path": "sketch.js",
-     "panel": 0,
-     "action": "open"
-    },
-    {
-     "path": "#preview: index.html",
-     "panel": 1,
-     "action": "open"
     }
    ],
-   "layout": "3-columns",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Building-the-Page---Files-8b1e.md",
