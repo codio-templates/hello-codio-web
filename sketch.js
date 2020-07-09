@@ -1,4 +1,4 @@
-let angle, val
+let angle, val, slider
 
 function setup() {
     createCanvas(400, 400)
@@ -7,10 +7,14 @@ function setup() {
     colorMode(HSB)
     val = 0
     angle = 0
+    slider = createSlider(0, 255, 127)
+    slider.style("display", "block")
+    slider.style("margin", "auto")
 }
 
 function draw() {
     background(255)
+    val = slider.value()
     stroke(val, 255, 255)
     translate(width / 2, height / 2)
     for (let i = -18; i < 18; i++) {
@@ -21,4 +25,3 @@ function draw() {
     }
     angle += 1 
 }
-
