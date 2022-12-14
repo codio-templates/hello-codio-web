@@ -1,0 +1,18 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		}
+	],
+	"id": "5063ba17-f8d9-53fb-738c-00ffdf307fc8",
+	"layout": "1-panel",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Building the Page - Layout",
+	"type": "page"
+}

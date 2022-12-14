@@ -1,0 +1,28 @@
+{
+	"source": {
+		"bloomsObjectiveLevel": "",
+		"grader": "",
+		"guidance": "The correct order is as follows:\n\n```\nFirst correct code block\nSecond correct code block\nThird correct code block\n```\n\nThe incorrect code blocks should be ignored.",
+		"initial": "First correct code block\nSecond correct code block\nThird correct code block\nIncorrect code block #distractor\nIncorrect code block #distractor",
+		"instructions": "Drag the code blocks below into the correct order. Do not use any extraneous code blocks in the final answer.",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Parsons Puzzle"
+				}
+			]
+		},
+		"name": "Parson's Problem Example",
+		"oneTimeTest": false,
+		"options": "{\n  \"sortableId\": \"sortable\",\n  \"trashId\": \"sortableTrash\"\n}",
+		"points": 1,
+		"showGuidanceAfterResponse": true,
+		"showName": true
+	},
+	"taskId": "parsons-puzzle-3227820982",
+	"type": "parsons-puzzle"
+}

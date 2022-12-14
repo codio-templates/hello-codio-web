@@ -1,0 +1,18 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		}
+	],
+	"id": "b6ac7c9b-e5fe-4a1d-a573-3a09e63a1af1",
+	"layout": "1-panel",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "Building the Page - Opening Files",
+	"type": "page"
+}

@@ -1,0 +1,38 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "index.html"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "style.css"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "sketch.js"
+		},
+		{
+			"action": "open",
+			"panel": 1,
+			"path": "#preview: index.html"
+		}
+	],
+	"id": "699d0e31-ed00-097a-c0a5-4ba19a6418d1",
+	"layout": "3-columns",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "HTML/CSS/JS",
+	"type": "page"
+}

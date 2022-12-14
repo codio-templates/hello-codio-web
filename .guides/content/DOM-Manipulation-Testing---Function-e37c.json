@@ -1,0 +1,23 @@
+{
+	"chapter": false,
+	"contentType": "markdown",
+	"files": [
+		{
+			"action": "close",
+			"path": "#tabs"
+		},
+		{
+			"action": "open",
+			"panel": 0,
+			"path": "dom-manipulation.js"
+		}
+	],
+	"id": "e37cc240-bff4-4db0-ec60-a433bf6a616e",
+	"layout": "2-panels",
+	"learningObjectives": "",
+	"path": [],
+	"reset": [],
+	"teacherOnly": false,
+	"title": "DOM Manipulation Testing - Function",
+	"type": "page"
+}

@@ -1,0 +1,39 @@
+{
+	"source": {
+		"bloomsObjectiveLevel": "",
+		"guidance": "False, JavaScript is an interpreted language.\nTrue, as of ES6 semi-colons are not mandatory at the end of a line of code.",
+		"instructions": "True or False",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Fill in the Blanks"
+				}
+			]
+		},
+		"name": "Fill in the Blank Example Question",
+		"points": 1,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": true,
+		"showName": true,
+		"showValues": false,
+		"text": "\u003c\u003c\u003cFalse\u003e\u003e\u003e JavaScript is a compiled language.\n\u003c\u003c\u003cTrue\u003e\u003e\u003e You are no longer required to use a semi-colon at the end of a line.",
+		"tokens": {
+			"blank": [
+				"False",
+				"True"
+			],
+			"text": [
+				0,
+				" JavaScript is a compiled language.\n",
+				0,
+				" You are no longer required to use a semi-colon at the end of a line."
+			]
+		}
+	},
+	"taskId": "fill-in-the-blanks-3213770126",
+	"type": "fill-in-the-blanks"
+}

@@ -1,0 +1,26 @@
+{
+	"allowGuideClose": false,
+	"collapsedOnStart": false,
+	"hideBackToDashboard": false,
+	"hideMenu": false,
+	"hideSectionsToggle": false,
+	"lexikonTopic": "",
+	"order": [
+		"HTML-CSS-JS-699d",
+		"Building-the-Page---Files-8b1e",
+		"Building-the-Page---Layout-5063",
+		"Building-the-Page---Opening-Files-b6ac",
+		"Building-the-Page---Viewing-Output-d126",
+		"Auto-Graded-Assessments-2019",
+		"DOM-Manipulation-Testing---Requirements-fed2",
+		"DOM-Manipulation-Testing---Function-e37c",
+		"DOM-Manipulation-Testing---Testing-8ae9"
+	],
+	"protectLayout": false,
+	"scripts": [],
+	"suppressPageNumbering": false,
+	"theme": "light",
+	"title": "HTML/CSS//JS Foundation",
+	"useMarkAsComplete": true,
+	"useSubmitButtons": true
+}

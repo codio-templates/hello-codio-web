@@ -1,0 +1,49 @@
+{
+	"source": {
+		"answers": [
+			{
+				"_id": "9f1c1b77-78a3-7113-8f14-03408225c30f",
+				"answer": "Ada Lovelace",
+				"correct": false
+			},
+			{
+				"_id": "948a943d-a9a9-b64b-777c-245e3c156163",
+				"answer": "Brandon Eich",
+				"correct": true
+			},
+			{
+				"_id": "134266cf-f71b-6363-c91f-c98a46b15bd8",
+				"answer": "Linus Torvalds",
+				"correct": false
+			},
+			{
+				"_id": "2eb52a4a-1ff8-6ed7-9584-ae62901674bb",
+				"answer": "Grace Hopper",
+				"correct": false
+			}
+		],
+		"bloomsObjectiveLevel": "",
+		"guidance": "Brandon Eich created the JavaScript language in 10 days as an employee of Netscape Communications Corporation.",
+		"incorrectPoints": 0,
+		"instructions": "Who created the JavaScript language?",
+		"learningObjectives": "",
+		"metadata": {
+			"files": [],
+			"opened": [],
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Multiple Choice"
+				}
+			]
+		},
+		"multipleResponse": false,
+		"name": "MCQ Example Question",
+		"points": 1,
+		"showExpectedAnswer": true,
+		"showGuidanceAfterResponse": true,
+		"showName": true
+	},
+	"taskId": "multiple-choice-4217579451",
+	"type": "multiple-choice"
+}
