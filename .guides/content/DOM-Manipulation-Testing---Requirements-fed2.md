@@ -14,7 +14,7 @@ Cheerio is important specifically for testing DOM manipulation. It allows us to 
 - **NPM**
 In the Codio Ubuntu boxes, NPM and NodeJS can both be installed with the following command: `sudo apt-get install npm`
 - **Mocha**
-Mocha can be installed with `npm`: `npm install mocha`
+Mocha can be installed with `npm`: `sudo npm install -g mocha`
 - **Chai**
 Chai can be installed with `npm` too: `npm install chai`
 - **Cheerio**
