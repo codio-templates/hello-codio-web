@@ -1,27 +1,29 @@
 {
 	"source": {
-		"bloomsObjectiveLevel": "",
-		"grader": "",
-		"guidance": "The correct order is as follows:\n\n```\nFirst correct code block\nSecond correct code block\nThird correct code block\n```\n\nThe incorrect code blocks should be ignored.",
-		"initial": "First correct code block\nSecond correct code block\nThird correct code block\nIncorrect code block #distractor\nIncorrect code block #distractor",
+		"name": "Parson's Problem Example",
+		"showName": true,
 		"instructions": "Drag the code blocks below into the correct order. Do not use any extraneous code blocks in the final answer.",
-		"learningObjectives": "",
+		"initial": "First correct code block\nSecond correct code block\nThird correct code block\nIncorrect code block #distractor\nIncorrect code block #distractor",
+		"options": "{\"sortableId\":\"sortable\",\"max_wrong_lines\":10,\"exec_limit\":2500,\"can_indent\":false,\"x_indent\":50,\"lang\":\"en\",\"show_feedback\":true,\"trashId\":\"sortableTrash\"}",
+		"grader": "1",
+		"guidance": "The correct order is as follows:\n\n```\nFirst correct code block\nSecond correct code block\nThird correct code block\n```\n\nThe incorrect code blocks should be ignored.",
+		"showGuidanceAfterResponseOption": {
+			"type": "Always"
+		},
+		"maxAttemptsCount": 0,
+		"points": 1,
 		"metadata": {
-			"files": [],
-			"opened": [],
 			"tags": [
 				{
 					"name": "Assessment Type",
 					"value": "Parsons Puzzle"
 				}
-			]
+			],
+			"files": [],
+			"opened": []
 		},
-		"name": "Parson's Problem Example",
-		"oneTimeTest": false,
-		"options": "{\n  \"sortableId\": \"sortable\",\n  \"trashId\": \"sortableTrash\"\n}",
-		"points": 1,
-		"showGuidanceAfterResponse": true,
-		"showName": true
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
 	},
 	"taskId": "parsons-puzzle-3227820982",
 	"type": "parsons-puzzle"

@@ -2,7 +2,18 @@
 
 Students will need HTML, CSS, and JS files in their project before beginning. Students can either create their own files, or file templates can be uploaded. Click on `File` in the menu bar and then select `New File...` to create a blank, new file. Click on `Upload...` if there are pre-made files for the students.
 
-![File Uploads](.guides/img/file-upload.png)
+<table>
+<tr>
+<td>
+<div style="width:200px; height:450px; margin-left:120px">
+
+![Image of the Codio file menu](.guides/img/file-upload.png)
+
+
+</div>
+</td>
+</tr>
+</table>
 
 In the file tree to the left, you should see all of the files needed for web development. **Note**, it is not necessary to have the JS libraries local to the project.
 
@@ -10,9 +21,9 @@ In the file tree to the left, you should see all of the files needed for web dev
 
 ### Students and the File Tree
 
-Because several files are needed for web development, students may need access to the file tree. Students can access the file tree any time they want by clicking `File` in the menu bar and the select `File Tree`.
+Because several files are needed for web development, students may need access to the file tree. You provide students access to the file tree in the **Layout** [settings](https://docs.codio.com/instructors/authoring/guides/page_editing.html#layout).
 
-![File Tree and Students](.guides/img/file_tree_students.png)
+
 
 ### P5.js
 This demo is using the [P5.js](https://p5js.org) library. P5 differs in a few ways from traditional JS libraries. First, P5 does not use the traditional [namespace](https://github.com/processing/p5.js/wiki/Global-and-instance-mode) conventions. By default, everything is global. P5 also uses the sketch metaphor for projects created in P5, which is why the JS file is called `sketch.js`.
