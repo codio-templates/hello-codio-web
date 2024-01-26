@@ -7,5 +7,5 @@ In this test file, we use Cheerio to load our HTML string into the variable `$`.
 Then we run our `stringAdder` function using the variables we just made as parameters, and we assign the result of our DOM manipulation to a variable.
 
 ### Test Execution
-Next comes the fun part! We actually need to test if the DOM manipulation worked. This all happens on line 16. It is stated that we expect the text inside the paragraph element to equal "Hello, World". If this test passes, our DOM manipulation was successful. If it fails, our function did not complete its intended purpose.
+Next comes the fun part! We actually need to test if the DOM manipulation worked. This all happens on line 18. It is stated that we expect the text inside the paragraph element to equal "Hello, World". If this test passes, our DOM manipulation was successful. If it fails, our function did not complete its intended purpose.
 Run this command in the terminal to execute the test: `mocha dom-manipulation-test.js`.

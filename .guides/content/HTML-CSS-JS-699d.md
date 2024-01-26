@@ -2,7 +2,7 @@
 
 You can create a `slider` element with the `createSlider` command. `createSlider` has four parameters; two of them are required, and two are optional.
 
-![Create Slider](.guides/img/createSlider.png)
+![The parameters that are passed to the createSlider function are min, max, value and step. The first two parameters are required and the second two are optional](.guides/img/createSlider.png)
 
 ## Add a Slider
 

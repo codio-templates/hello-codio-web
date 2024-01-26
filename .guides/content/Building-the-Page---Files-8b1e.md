@@ -7,7 +7,7 @@ Students will need HTML, CSS, and JS files in their project before beginning. St
 <td>
 <div style="width:200px; height:450px; margin-left:120px">
 
-![Image of the Codio file menu](.guides/img/file-upload.png)
+![The Codio file menu has options for new file and file upload](.guides/img/file-upload.png)
 
 
 </div>
@@ -17,7 +17,7 @@ Students will need HTML, CSS, and JS files in their project before beginning. St
 
 In the file tree to the left, you should see all of the files needed for web development. **Note**, it is not necessary to have the JS libraries local to the project.
 
-![File Uploads](.guides/img/web-files.png)
+![The file tree contains the HTML file index.html, the JS libraries p5.dom.min.js, p5.min.js and p5.sound.min.js. It also contains the JS file sketch.js and the CSS file style.css](.guides/img/web-files.png)
 
 ### Students and the File Tree
 
