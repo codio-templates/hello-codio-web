@@ -3,16 +3,16 @@
 	"contentType": "markdown",
 	"files": [
 		{
-			"action": "close",
-			"path": "#tabs"
+			"path": "#tabs",
+			"action": "close"
 		}
 	],
 	"id": "fed26547-47f3-c41f-fd59-10a5ec1ce32d",
 	"layout": "1-panel",
 	"learningObjectives": "",
 	"path": [],
-	"reset": [],
 	"teacherOnly": false,
 	"title": "DOM Manipulation Testing - Requirements",
-	"type": "page"
+	"type": "page",
+	"closeTerminalSession": false
 }

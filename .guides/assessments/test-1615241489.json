@@ -1,0 +1,36 @@
+{
+	"type": "test",
+	"taskId": "test-1615241489",
+	"source": {
+		"name": "Test HTML",
+		"showName": true,
+		"instructions": "Use this auto-grader to test the functions from the previous page.",
+		"command": "mocha test/html.test.js 2>&1 || true",
+		"timeoutSeconds": 40,
+		"guidance": "",
+		"showGuidanceAfterResponseOption": {
+			"type": "Never"
+		},
+		"maxAttemptsCount": 0,
+		"points": 20,
+		"arePartialPointsAllowed": true,
+		"metadata": {
+			"tags": [
+				{
+					"name": "Assessment Type",
+					"value": "Advanced Code Test"
+				}
+			],
+			"files": [],
+			"opened": [
+				{
+					"type": "preview",
+					"panelNumber": 0,
+					"content": "https://{{domain3050}}"
+				}
+			]
+		},
+		"bloomsObjectiveLevel": "",
+		"learningObjectives": ""
+	}
+}

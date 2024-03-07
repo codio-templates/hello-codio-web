@@ -1,3 +1,4 @@
+---
 # Files
 
 Students will need HTML, CSS, and JS files in their project before beginning. Students can either create their own files, or file templates can be uploaded. Click on `File` in the menu bar and then select `New File...` to create a blank, new file. Click on `Upload...` if there are pre-made files for the students.

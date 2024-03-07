@@ -3,11 +3,10 @@ This project shows you a sample lesson page in Codio and then explains how it wa
 
 Feel free to edit and try things out -- if you need a new copy of this project use one of the links below.
 
-For Codio.com users, go to this [starter pack](https://codio.com/home/starter-packs/5e1b60e2-9d29-4e4c-8780-e6038991ec5d).
-For Codio.co.uk users, go to this [starter pack](https://codio.co.uk/home/starter-packs/f1c63b4e-1fa8-406e-84a7-9b40d62eacf9).
+Feel free to edit and try things out. If you need a new version of this Starter Pack you can navigate to the Starter Pack section of your dashboard and search for "Hello Codio in HTML/CSS/Javascript". More information about Starter Packs [here](https://docs.codio.com/common/develop/packs/packs.html#).
 
 ## Start the Guide to see the project
 If you are seeing this, you are currently in edit mode. To start Guides from this page, go to the tool bar at the top:
-![.guides/img/playGuide](.guides/img/playGuide.png)
+![The Tools menu is in the Codio Menu bar. Select Tools, then Guide and then Play](.guides/img/playGuide.png)
 
 To view projects the way students do, press "Yes" when prompted to Start Guides.

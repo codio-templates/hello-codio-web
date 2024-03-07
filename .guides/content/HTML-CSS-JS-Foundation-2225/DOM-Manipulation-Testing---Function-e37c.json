@@ -3,21 +3,21 @@
 	"contentType": "markdown",
 	"files": [
 		{
-			"action": "close",
-			"path": "#tabs"
+			"path": "#tabs",
+			"action": "close"
 		},
 		{
-			"action": "open",
+			"path": "#terminal: clear;",
 			"panel": 0,
-			"path": "dom-manipulation.js"
+			"action": "open"
 		}
 	],
 	"id": "e37cc240-bff4-4db0-ec60-a433bf6a616e",
 	"layout": "2-panels",
 	"learningObjectives": "",
 	"path": [],
-	"reset": [],
 	"teacherOnly": false,
 	"title": "DOM Manipulation Testing - Function",
-	"type": "page"
+	"type": "page",
+	"closeTerminalSession": false
 }

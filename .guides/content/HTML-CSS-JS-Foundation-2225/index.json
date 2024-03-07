@@ -1,0 +1,16 @@
+{
+	"id": "22259866-33b1-8848-066a-6b1485b28e73",
+	"type": "section",
+	"title": "HTML/CSS/JS Foundation",
+	"order": [
+		"HTML-CSS-JS-699d",
+		"Building-the-Page---Files-8b1e",
+		"Building-the-Page---Layout-5063",
+		"Building-the-Page---Opening-Files-b6ac",
+		"Building-the-Page---Viewing-Output-d126",
+		"Auto-Graded-Assessments-2019",
+		"DOM-Manipulation-Testing---Requirements-fed2",
+		"DOM-Manipulation-Testing---Testing-8ae9",
+		"DOM-Manipulation-Testing---Function-e37c"
+	]
+}
